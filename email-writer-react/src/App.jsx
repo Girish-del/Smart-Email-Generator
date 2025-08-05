@@ -45,7 +45,7 @@ function App() {
   return (
     <Container maxWidth="md" sx={{ py: 4 }}>
       <Typography variant="h3" component="h1" gutterBottom>
-        Email Reply Generator
+        Smart AI Email Reply Generator
       </Typography>
 
       <Box sx={{ mb: 3 }}>
